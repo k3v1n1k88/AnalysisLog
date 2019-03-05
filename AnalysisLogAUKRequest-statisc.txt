@@ -1,0 +1,6 @@
+Numbers of create: 241
+Total time between two login: 11341356
+Numbers of re-loggin 72
+Numbers of numsMerge: 0
+Numbers of numsUpdated: 32
+Total time between two updating: 6004860

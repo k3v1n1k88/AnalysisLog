@@ -1,0 +1,4 @@
+Numbers of create: 14
+Total time between two login: 7106
+Numbers of re-loggin 1
+Numbers of numsMerge: 0
